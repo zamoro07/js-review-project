@@ -1,2 +1,2 @@
-# JavaScript Review Project by write_your_full_name
+# JavaScript Review Project by Jana Alliah G. Zamoro
 This project is a review of Javascript concepts, from beginner to advanced.
